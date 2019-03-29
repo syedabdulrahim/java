@@ -25,7 +25,6 @@ public class first {
 		 int ans=searchLibraryById(lb, 4);
 		 System.out.println(ans);
 		
-	//	System.out.println(lb[0].getId());
 
 	}
 
